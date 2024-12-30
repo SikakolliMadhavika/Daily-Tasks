@@ -1,0 +1,17 @@
+#one{
+    color: blue;
+}
+.two{
+    color: brown;
+}
+span{
+    color: rgb(127, 210, 232);
+}
+.three,#four{
+    color: yellow;
+}
+*{
+
+    color: purple;
+}
+
